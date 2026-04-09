@@ -11,7 +11,7 @@ Next, select the "Active users" sub-category. Under the "Active Users" title, se
     <img src="https://github.com/zay65/MS-365-MFA-config/blob/37e825a488ce683671511e0e82213499edb008de/MS%20365%20MFA%201.png" alt="Sample Image"/>
   </p>
 
-<div align="center"> Select the user(s) you wish to enable MFA for, select "Enable MFA", & then when prompted to "Enable multifactor authentication", select the "Enable" button.</div>
+<div align="center"> Select the name(s) of the user(s) you wish to enable MFA for, select "Enable MFA" (above "Name"), & then when prompted to "Enable multifactor authentication", select the "Enable" button.</div>
 
 
 <p align="center">
