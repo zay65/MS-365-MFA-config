@@ -1,5 +1,5 @@
 # MS-365-MFA-config
-Repo showing my knowledge of MFA within MS365
+Hands-on access management & Microsoft Entra ID security demonstration through multi-factor authentication (MFA) implementation within a Microsoft 365 environment.
 
 <h2> Enabling MFA through Entra ID (formerly Azure Active Directory) </h3>
 
